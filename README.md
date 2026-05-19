@@ -141,11 +141,5 @@ Pull requests are welcome! If you add a feature (PID line following, left-turn a
 4. Open a pull request
 ---
  
-## 📄 License
- 
-MIT — do whatever you want with it, just don't blame me if your robot escapes. 🏃
- 
----
- 
 *Made with ☕ and too many jumper wires*
  
